@@ -1,1 +1,1 @@
-This is a GIt tutorial
+This is a GIt tutorial we took on Thursday
